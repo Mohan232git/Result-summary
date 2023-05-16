@@ -1,2 +1,2 @@
 # Result-summary
-  a result displaying webpage
+  a result displaying template using Html , Css.
